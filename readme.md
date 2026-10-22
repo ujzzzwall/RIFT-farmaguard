@@ -173,4 +173,4 @@ Required Fields:
 
 ## 📜 License
 
-Developed for academic and hackathon purposes.
+Developed for academic purpose.
