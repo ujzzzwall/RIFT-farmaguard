@@ -155,10 +155,8 @@ Required Fields:
 
 ## 👥 Team Members
 
-- Anant Rai (Team Leader)
+- Anant Rai
 - Ujjwal Singh
-- Adarsh Singh
-- Pravin Rai
 
 ---
 
