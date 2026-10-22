@@ -3,12 +3,6 @@
 ## 🚀 Live Demo
 ### Web Application URL : https://rift-eta.vercel.app
 
-## 🎥 LinkedIn Demo Video
-### LinkedIn Demo Video URL : https://www.linkedin.com/posts/anant-rai-94211529a_rift2026-pharmaguard-pharmacogenomics-ugcPost-7430435582541119488-jGqR?utm_source=share&utm_medium=member_android&rcm=ACoAAEg7A0kB9ABq-b1vJRsKDHSys3zBnPtClF0
-
-### Project Walkthrough Video: 
----
-
 ## 📌 Project Overview
 
 PharmaGuard is a full-stack pharmacogenomic analysis platform that parses patient VCF (Variant Call Format v4.2) files, analyzes genetic variants, and provides intelligent drug risk assessments such as Safe, Adjust Dosage, Toxic, and High Risk.
